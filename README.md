@@ -32,7 +32,7 @@ Para instalação verifique **[installation documentation](docs/installation.md)
 
 ### Débitos Técnicos / Próximos Desafios
 
-- [ ] Conectar ao mongo para persiste os envios realizados
-- [ ] Incluir um docker-compose.example.yml
+- [ ] Criar uma interface para que usuário consiga preencher a mensagem e número
+- [ ] Conectar ao mongo para persistir os sms enviados realizados
 - [ ] Implementar testes unitários Jest
 - [ ] Refatorar o código
