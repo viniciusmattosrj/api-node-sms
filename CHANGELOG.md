@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/viniciusmattosrj/api-node-sms/compare/v1.1.0...v1.1.1) (2021-02-17)
+
+
+### Bug Fixes
+
+* ajustando o gitignore ([ad64437](https://github.com/viniciusmattosrj/api-node-sms/commit/ad6443702386c37f845d7b71e9848dce236f62c4))
+
 ## 1.1.0 (2021-02-17)
 
 
